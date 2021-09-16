@@ -17,6 +17,7 @@
       },
       "hero-1": {
         "type": "hero",
+        "disabled": true,
         "settings": {
           "image": "shopify:\/\/shop_images\/people-looking-at-light-beams-from-the-walls.jpg",
           "alignment": "center",
@@ -41,6 +42,7 @@
       },
       "feature-columns": {
         "type": "feature-columns",
+        "disabled": true,
         "blocks": {
           "feature-columns-1": {
             "type": "text_block",
@@ -85,6 +87,7 @@
       },
       "collection": {
         "type": "collection",
+        "disabled": true,
         "settings": {
           "title": "Featured collection",
           "collection": "",
@@ -96,6 +99,7 @@
       },
       "hero-2": {
         "type": "hero",
+        "disabled": true,
         "settings": {
           "alignment": "center",
           "hero_layout": "full_width",
@@ -109,6 +113,7 @@
       },
       "quotes": {
         "type": "quotes",
+        "disabled": true,
         "blocks": {
           "quotes-0": {
             "type": "quote",
@@ -143,6 +148,7 @@
       },
       "image-bar": {
         "type": "image-bar",
+        "disabled": true,
         "blocks": {
           "image-bar-0": {
             "type": "image",
